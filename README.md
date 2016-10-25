@@ -1,2 +1,2 @@
-# web-design
+Coursera test
 Coursera test repository
